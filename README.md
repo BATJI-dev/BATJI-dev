@@ -2,10 +2,10 @@
   <img src="assets/profile-banner.svg" alt="BATJI — веб, лаунчер и Minecraft" width="100%">
 </p>
 
-<h1 align="center">BATJI</h1>
+<h1 align="center">Привет, я BATJI</h1>
 
 <p align="center">
-  Разрабатываю <a href="https://tw1tchland.ru/">TwitchLand</a> — связываю веб-платформу, лаунчер и Minecraft-серверы в один проект.
+  Развиваю <a href="https://tw1tchland.ru/">TwitchLand</a> — игровой проект, где сайт, лаунчер и Minecraft-сервер работают вместе.
 </p>
 
 <p align="center">
@@ -18,30 +18,33 @@
 
 ---
 
-## Чем занимаюсь
+<p align="center">
+  <img src="assets/twitchland-system.svg" alt="Три части TwitchLand: веб-платформа, лаунчер и Minecraft-сервер" width="100%">
+</p>
 
-- Развиваю сайт и API TwitchLand на Laravel.
-- Работаю над собственным лаунчером и связью аккаунта с игровыми серверами.
-- Настраиваю интеграции Minecraft, включая серверные плагины и Towny.
-- Дорабатываю интерфейсы так, чтобы ими было удобно пользоваться в игре и на сайте.
+## Над чем работаю
+
+Стараюсь, чтобы путь игрока не распадался на отдельные сервисы: аккаунт на сайте, вход через лаунчер и игровые функции должны согласованно работать на сервере.
 
 ## Технологии
 
-| Направление | Стек |
-|:--|:--|
-| Backend | PHP · Laravel 12 |
-| Web | JavaScript · Blade · HTML · CSS |
-| Launcher | C# · .NET |
-| Minecraft | Java · Purpur · Towny API |
-| Данные | SQL |
+| WEB / API | LAUNCHER | MINECRAFT |
+|:--|:--|:--|
+| `PHP` · `Laravel 12` · `JavaScript` · `Blade` · `HTML` · `CSS` · `SQL` | `C#` · `.NET` | `Java` · `Purpur` · `Towny API` |
 
-## Сейчас в работе
+## Проект
 
 ### TwitchLand
 
-Веб-платформа и инструменты для Minecraft-проекта: аккаунты, лаунчер, серверные интеграции и игровые функции.
+Сайт, лаунчер и набор игровых интеграций для Minecraft-сообщества.
 
-**[Открыть TwitchLand →](https://tw1tchland.ru/)**
+<p align="center">
+  <a href="https://tw1tchland.ru/">Сайт проекта</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/playtwitchland">Сообщество в Telegram</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/Z52UaNhhAY">Discord</a>
+</p>
 
 ---
 

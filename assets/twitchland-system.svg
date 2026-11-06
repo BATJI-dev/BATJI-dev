@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Три части TwitchLand</title>
+  <desc id="desc">Веб-платформа на Laravel, лаунчер на C# и Minecraft-серверные интеграции.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12121a"/>
+      <stop offset="1" stop-color="#1a1727"/>
+    </linearGradient>
+    <linearGradient id="web" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a98af4"/>
+      <stop offset="1" stop-color="#6a4fc2"/>
+    </linearGradient>
+    <linearGradient id="launch" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#79b7f2"/>
+      <stop offset="1" stop-color="#4777bd"/>
+    </linearGradient>
+    <linearGradient id="game" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9fce9d"/>
+      <stop offset="1" stop-color="#5c926c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="308" rx="18" fill="url(#base)" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="40" y="43" fill="#aa98d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.4">TWITCHLAND / SYSTEM MAP</text>
+  <text x="40" y="77" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="650">Три части одного проекта</text>
+  <path d="M180 166H1020" fill="none" stroke="#8870c8" stroke-opacity=".35" stroke-width="2" stroke-dasharray="4 8"/>
+  <g fill="#b99df7">
+    <rect x="394" y="161" width="10" height="10"/>
+    <rect x="794" y="161" width="10" height="10"/>
+  </g>
+  <g>
+    <rect x="32" y="104" width="360" height="166" rx="12" fill="#191824" stroke="#a98af4" stroke-opacity=".48"/>
+    <rect x="32" y="104" width="360" height="3" rx="1.5" fill="url(#web)"/>
+    <g transform="translate(56 132)" shape-rendering="crispEdges">
+      <rect width="42" height="34" rx="5" fill="#2a2440" stroke="#aa91ef" stroke-width="1.5"/>
+      <path d="M2 9h38" stroke="#aa91ef" stroke-width="1.5"/>
+      <circle cx="7" cy="5" r="1.5" fill="#cfbfff"/>
+      <circle cx="13" cy="5" r="1.5" fill="#cfbfff"/>
+      <rect x="8" y="16" width="8" height="8" fill="#a98af4"/>
+      <rect x="21" y="16" width="13" height="3" fill="#7564a6"/>
+      <rect x="21" y="22" width="9" height="3" fill="#7564a6"/>
+    </g>
+    <text x="112" y="141" fill="#bca9ed" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">01 / WEB + API</text>
+    <text x="112" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Веб-платформа</text>
+    <text x="56" y="207" fill="#c4b3f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">PHP · Laravel · JavaScript</text>
+    <text x="56" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Сайт, API и аккаунты игроков</text>
+  </g>
+  <g>
+    <rect x="420" y="104" width="360" height="166" rx="12" fill="#171a24" stroke="#79b7f2" stroke-opacity=".45"/>
+    <rect x="420" y="104" width="360" height="3" rx="1.5" fill="url(#launch)"/>
+    <g transform="translate(444 132)" shape-rendering="crispEdges">
+      <rect width="42" height="34" rx="5" fill="#202a39" stroke="#79b7f2" stroke-width="1.5"/>
+      <rect x="7" y="7" width="7" height="7" fill="#a8d4ff"/>
+      <rect x="17" y="7" width="17" height="3" fill="#729ac1"/>
+      <rect x="17" y="13" width="12" height="3" fill="#729ac1"/>
+      <path d="M9 24h20m-6-6 6 6-6 6" fill="none" stroke="#79b7f2" stroke-width="2"/>
+    </g>
+    <text x="500" y="141" fill="#95c8f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">02 / DESKTOP</text>
+    <text x="500" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Лаунчер</text>
+    <text x="444" y="207" fill="#a7cff3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">C# · .NET</text>
+    <text x="444" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Вход, обновления и сборки</text>
+  </g>
+  <g>
+    <rect x="808" y="104" width="360" height="166" rx="12" fill="#171e1c" stroke="#9fce9d" stroke-opacity=".42"/>
+    <rect x="808" y="104" width="360" height="3" rx="1.5" fill="url(#game)"/>
+    <g transform="translate(832 132)" shape-rendering="crispEdges">
+      <rect x="3" y="1" width="30" height="10" fill="#9fce9d"/>
+      <rect x="3" y="11" width="30" height="11" fill="#8a684e"/>
+      <rect x="3" y="22" width="30" height="10" fill="#674f43"/>
+      <rect x="7" y="4" width="7" height="5" fill="#c6e4b9"/>
+      <rect x="19" y="4" width="9" height="5" fill="#7eaf82"/>
+      <rect x="10" y="16" width="5" height="5" fill="#a98767"/>
+      <rect x="22" y="25" width="6" height="5" fill="#8c6b58"/>
+    </g>
+    <text x="888" y="141" fill="#a6d0a4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">03 / GAME</text>
+    <text x="888" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Minecraft</text>
+    <text x="832" y="207" fill="#b4d4ae" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Java · Purpur · Towny API</text>
+    <text x="832" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Плагины и серверные механики</text>
+  </g>
+</svg>
