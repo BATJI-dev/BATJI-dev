@@ -20,8 +20,8 @@
     </linearGradient>
   </defs>
   <rect x="1" y="1" width="1198" height="308" rx="18" fill="url(#base)" stroke="#ffffff" stroke-opacity=".12"/>
-  <text x="40" y="43" fill="#aa98d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.4">TWITCHLAND / SYSTEM MAP</text>
-  <text x="40" y="77" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="650">Три части одного проекта</text>
+  <text x="40" y="43" fill="#aa98d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.4">TWITCHLAND / SYSTEM MAP</text>
+  <text x="40" y="77" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="650">Три части одного проекта</text>
   <path d="M180 166H1020" fill="none" stroke="#8870c8" stroke-opacity=".35" stroke-width="2" stroke-dasharray="4 8"/>
   <g fill="#b99df7">
     <rect x="394" y="161" width="10" height="10"/>
@@ -39,10 +39,10 @@
       <rect x="21" y="16" width="13" height="3" fill="#7564a6"/>
       <rect x="21" y="22" width="9" height="3" fill="#7564a6"/>
     </g>
-    <text x="112" y="141" fill="#bca9ed" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">01 / WEB + API</text>
-    <text x="112" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Веб-платформа</text>
-    <text x="56" y="207" fill="#c4b3f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">PHP · Laravel · JavaScript</text>
-    <text x="56" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Сайт, API и аккаунты игроков</text>
+    <text x="112" y="141" fill="#bca9ed" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">01 / WEB + API</text>
+    <text x="112" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="650">Веб-платформа</text>
+    <text x="56" y="207" fill="#c4b3f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">PHP · Laravel · JavaScript</text>
+    <text x="56" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Сайт, API и аккаунты игроков</text>
   </g>
   <g>
     <rect x="420" y="104" width="360" height="166" rx="12" fill="#171a24" stroke="#79b7f2" stroke-opacity=".45"/>
@@ -54,10 +54,10 @@
       <rect x="17" y="13" width="12" height="3" fill="#729ac1"/>
       <path d="M9 24h20m-6-6 6 6-6 6" fill="none" stroke="#79b7f2" stroke-width="2"/>
     </g>
-    <text x="500" y="141" fill="#95c8f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">02 / DESKTOP</text>
-    <text x="500" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Лаунчер</text>
-    <text x="444" y="207" fill="#a7cff3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">C# · .NET</text>
-    <text x="444" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Вход, обновления и сборки</text>
+    <text x="500" y="141" fill="#95c8f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">02 / DESKTOP</text>
+    <text x="500" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="650">Лаунчер</text>
+    <text x="444" y="207" fill="#a7cff3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">C# · .NET</text>
+    <text x="444" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Вход, обновления и сборки</text>
   </g>
   <g>
     <rect x="808" y="104" width="360" height="166" rx="12" fill="#171e1c" stroke="#9fce9d" stroke-opacity=".42"/>
@@ -71,9 +71,9 @@
       <rect x="10" y="16" width="5" height="5" fill="#a98767"/>
       <rect x="22" y="25" width="6" height="5" fill="#8c6b58"/>
     </g>
-    <text x="888" y="141" fill="#a6d0a4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">03 / GAME</text>
-    <text x="888" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Minecraft</text>
-    <text x="832" y="207" fill="#b4d4ae" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Java · Purpur · Towny API</text>
-    <text x="832" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Плагины и серверные механики</text>
+    <text x="888" y="141" fill="#a6d0a4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">03 / GAME</text>
+    <text x="888" y="164" fill="#f4f0fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="650">Minecraft</text>
+    <text x="832" y="207" fill="#b4d4ae" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Java · Purpur · Towny API</text>
+    <text x="832" y="237" fill="#aaa5b9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Плагины и серверные механики</text>
   </g>
 </svg>

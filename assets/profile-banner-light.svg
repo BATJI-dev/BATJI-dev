@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">BATJI — TwitchLand developer</title>
+  <desc id="desc">A dark pixel landscape with a violet moon and the words Web, Launcher, Minecraft.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8f6fc"/>
+      <stop offset="0.58" stop-color="#eee9f6"/>
+      <stop offset="1" stop-color="#e3dbf2"/>
+    </linearGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7c76a"/>
+      <stop offset="1" stop-color="#c88747"/>
+    </linearGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c8bae1"/>
+      <stop offset="1" stop-color="#9f91b9"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#463a60" stroke-opacity=" .075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#sky)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+  <circle cx="1040" cy="100" r="51" fill="url(#moon)" opacity=".94"/>
+  <rect x="1017" y="74" width="13" height="13" fill="#fff4cf" opacity=".44"/>
+  <rect x="1053" y="111" width="17" height="17" fill="#ad8651" opacity=".36"/>
+  <rect x="1078" y="81" width="10" height="10" fill="#fff4cf" opacity=".32"/>
+  <g fill="#aa91ef" opacity=".7" shape-rendering="crispEdges">
+    <rect x="829" y="68" width="8" height="8"/><rect x="845" y="68" width="8" height="8"/><rect x="837" y="52" width="8" height="8"/>
+    <rect x="1170" y="147" width="7" height="7"/><rect x="1184" y="147" width="7" height="7"/><rect x="1177" y="133" width="7" height="7"/>
+    <rect x="926" y="172" width="6" height="6"/><rect x="938" y="160" width="6" height="6"/>
+  </g>
+  <path d="M575 255h64v-32h32v-32h32v-24h32v32h32v-16h32v-32h32v24h32v-8h32v32h32v-24h32v16h32v-24h32v40h32v-16h32v32h32v-8h32v32h32v64H575z" fill="url(#ridge)"/>
+  <path d="M760 287h32v-64h16v-32h16v32h16v64h32v-48h24v-32h16v-24h16v24h16v32h24v48h32v-72h24v-24h16v24h16v72h32v-40h24v-32h16v-24h16v24h16v32h24v40h32v53H760z" fill="#40364e"/>
+  <g fill="#665289" opacity=".82" shape-rendering="crispEdges">
+    <rect x="831" y="226" width="9" height="13"/><rect x="856" y="226" width="9" height="13"/><rect x="881" y="226" width="9" height="13"/>
+    <rect x="948" y="209" width="10" height="15"/><rect x="974" y="209" width="10" height="15"/>
+    <rect x="1062" y="225" width="9" height="14"/><rect x="1087" y="225" width="9" height="14"/><rect x="1112" y="225" width="9" height="14"/>
+    <rect x="1192" y="246" width="8" height="12"/><rect x="1216" y="246" width="8" height="12"/>
+  </g>
+  <path d="M0 300h1280" stroke="#665289" stroke-opacity=".22"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="76" y="86" fill="#5f4b83" font-size="14" font-weight="600" letter-spacing="3">TWITCHLAND / ENGINEERING</text>
+    <text x="72" y="174" fill="#231d2e" font-size="76" font-weight="750" letter-spacing="-3">BATJI</text>
+    <text x="78" y="216" fill="#5b5368" font-size="23" font-weight="400">Web · Launcher · Minecraft</text>
+    <circle cx="84" cy="264" r="5" fill="#7552ad"/>
+    <text x="101" y="269" fill="#645d70" font-size="14" letter-spacing="1.2">BUILDING TWITCHLAND</text>
+  </g>
+</svg>

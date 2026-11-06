@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="BATJI — веб, лаунчер и Minecraft" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
+    <img src="assets/profile-banner-light.svg" alt="BATJI — веб, лаунчер и Minecraft" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Привет, я BATJI</h1>
@@ -19,7 +23,11 @@
 ---
 
 <p align="center">
-  <img src="assets/twitchland-system.svg" alt="Три части TwitchLand: веб-платформа, лаунчер и Minecraft-сервер" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/twitchland-system.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/twitchland-system-light.svg">
+    <img src="assets/twitchland-system-light.svg" alt="Три части TwitchLand: веб-платформа, лаунчер и Minecraft-сервер" width="100%">
+  </picture>
 </p>
 
 ## Над чем работаю
